@@ -1,0 +1,10 @@
+body {
+    background-color: #09224a;
+}
+
+#header_image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
