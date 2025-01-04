@@ -59,6 +59,7 @@ h1 {
 /* Style the back side - This will put the front and back on seperate sides */
 .flip-card-quote-back {
     font-size: 60px;
+    line-height: 0.7;
     background-color: #fffde9;
     color: #b47816;
     transform: rotateY(180deg);
