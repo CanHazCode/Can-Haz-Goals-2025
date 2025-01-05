@@ -5,15 +5,17 @@ body {
 h1 {
     color: #fffde9;
     text-align: center;
-    margin-top: 70px;
-    font-size: 40px;
+    margin-top: 80px;
+    margin-bottom: 120px;
+    font-size: 50px;
+    text-shadow: 1px 1px 2px #fffde9, 0 0 1em #b47816, 0 0 0.2em #b47816;
 }
 
 #header_image {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 5px;
+    margin-bottom: 5px; 
     width: 100%;
 }
 
@@ -32,6 +34,7 @@ h1 {
     height: 200px;
     perspective: 1000px;
     margin: 20px 100px 100px 100px;
+    
 }
 
 /* Position the front and back side */
@@ -69,7 +72,7 @@ h1 {
     border-style: solid;
     border-color: #b47816;
     border-radius: 15px 50px;
-    
+    text-shadow: 4px 2px 6px #031430;
     
 }
 
@@ -85,4 +88,5 @@ h1 {
     border-style: solid;
     border-color: #b47816;
     border-radius: 50px 15px;
+    text-shadow: 4px 2px 6px #b47816;
 }
